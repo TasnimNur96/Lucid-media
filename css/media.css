@@ -1,0 +1,215 @@
+
+@media (min-width: 1400px) and (max-width: 1473px){
+    .phone {
+        left: 62%;
+        width: 47%;
+    }
+    .display-section p {
+        padding-top: 20px;
+    }
+    .btn-features{
+        margin-right: 15px;
+    }
+
+
+
+}
+@media (min-width: 1200px) and (max-width: 1399px){
+    .phone {
+        left: 60%;
+        width: 53%;
+    }
+    .btn-features{
+        margin-right: 15px;
+    }
+    .display-section p {
+        padding-top: 20px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+    .phone {
+        left: 52%;
+        width: 62%;
+    }
+    .text-end {
+        text-align: center !important;
+        margin-top: 5px;
+    }
+    .contact-form {
+        padding: 60px;
+        width: 65%
+}
+@media (min-width: 768px) and (max-width: 991px){
+    .phone {
+        left: 50%;
+        width: 75%;
+    }
+    .banner-content{
+        min-height: 85vh;
+   }
+   .display-section img {
+    width: 80%;
+    padding-top: 60px;
+}
+.btn-features, .btn-download {
+    margin-bottom: 15px !important;
+    padding: 11px 18px;
+    font-size: 12px;
+}
+.btn-download{
+    margin-bottom: 20px;
+}
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    .phone{
+        display: none;
+    }
+    .banner-content{
+         min-height: 80vh;
+    }
+    .display-section img {
+        width: 60%;
+        padding-bottom: 50px;
+    }
+    .rev{
+        flex-direction: column-reverse;
+    }
+    .like-what-you-see h1 {
+        font-size: 30px;
+    }
+    .contact-form {
+        padding: 60px;
+        top: 74%;
+        width: 72%;
+    }
+
+}
+
+@media(min-width:0px) and (max-width:575px){
+    Header {
+        min-height: 90vh;
+    }
+    .phone{
+        display: none !important;
+    }
+    .banner-content{
+        min-height: 70vh;
+        text-align: center;
+        }
+   }
+    .banner-content h5{
+        font-size: 16px;
+    }
+    .banner-content h1 {
+        font-size: 42px;
+        font-weight: 600;
+        margin: 10px 0;
+    }
+    .banner-content p {
+       
+        margin-bottom: 35px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .btn-download {
+        
+        padding: 10px 14px;
+        font-size: 12px;
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-bottom: 15px;
+    }
+    .btn-features{
+        padding: 10px 14px;
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+   
+    .features-item {
+        padding-top: 30px !important;
+    }
+    .display-section p {
+        padding-top: 15px;
+    }
+    .display-section ul {
+        padding: 0px;
+
+    }
+    .display-section {
+        padding-bottom: 0px !important;
+    }
+    .pt-4 {
+        padding-top: 1.5rem!important;
+      
+    }
+    .pt-5 {
+        padding-top: 0!important;
+        }
+     .display-section img {
+            width: 60%;
+     }
+    .like-what-you-see h1 {
+        font-size: 33px;
+        padding-left: 42px;
+        text-align: center !important;
+    }
+    .text-end {
+        text-align: center !important;
+        margin-top: 15px;
+    }
+    .like-what-you-see-btn btn-download{
+        margin-left: 15px;
+    }
+    .pricings h5 {
+        padding-top: 20px;
+    }
+    .contact p {
+        padding-bottom: 0px;
+    }
+    .contact-form {
+        padding: 46px;
+        top: 65%;
+        width: 70%;
+    }
+    
+
+}
+@media(min-width:0px) and (max-width:320px){
+    .phone{
+        display: none;
+    }
+
+    .banner-content h1 {
+        font-size: 35px;
+        text-align: center;
+    }
+    .features-item p {
+       
+        padding: 0px 20px;
+        padding-bottom: 20px;
+    }
+    .features-item {
+        padding-top: 30px !important;
+    }
+    .pt-5 {
+        padding-top: 0!important;
+    }
+    .navbar-light .navbar-brand {;
+        padding-left: 35px !important;
+    }
+    .like-what-you-see h1 {
+        font-size: 30px;
+    }
+    .footer-content ul {
+        width: 100%;
+    }
+    .banner-content h5 {
+        margin: 15px;
+        
+    }
+    .contact-form {
+        padding: 40px;
+        top: 65%;
+        width: 82%;
+
+}
